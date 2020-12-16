@@ -1,0 +1,1 @@
+The DataFiles folder contain a copy of the data set. An example of a program run is given in the Results folder. Appropriate figures and graphs are in the Results/FigureFiles folder. An updated version, to the one delivered in cavas, of the project report file is in the main directory.
